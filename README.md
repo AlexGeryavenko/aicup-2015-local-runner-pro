@@ -1,4 +1,4 @@
-# Plugin for Russian AI Cup 2015 
+# Plugin for AI Cup 2015 
 Using this plugin will allow you to test your strategy with couple additional features.
 
 Release notes:
@@ -13,7 +13,7 @@ v1.0
 
 Setup:
 
-1. Download [local-runner](http://russianaicup.ru/p/localrunner "local-runner").
+1. Download [local-runner](http://aicup.com/p/localrunner "local-runner").
 2. Unzip and go to folder "/local-runner" open file "local-runner.properties", find the line:
  ```
  plugins-directory=
